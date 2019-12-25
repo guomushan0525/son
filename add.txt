@@ -1,2 +1,7 @@
 add content ddd
+<<<<<<< HEAD
 master de xiugai
+=======
+add derrrr xiugai
+ddddddddddddd
+>>>>>>> der
